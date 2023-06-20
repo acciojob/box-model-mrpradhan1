@@ -25,7 +25,7 @@
 	margin:2rem;
 }
 .red{
-	background-color:red;
+	background-color:rgb(255, 0, 0);
     width:100px;
     height: 100px;
 	border-radius: 50%;
